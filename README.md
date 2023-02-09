@@ -1,7 +1,9 @@
 # Web Scraping with Python IMDB
 
 ## Introduction
-In this repository we will be scraping the IMDB website to get all the movies from the year 2020. We will be using the BeautifulSoup library to scrape the website. We will be using the requests library to get the HTML content of the website. We will be using the pandas library to store the data in a CSV file.
+In this repository we will be scraping the IMDB website to get all the movies from the year 2020.
+
+We will be using the scrapy framework to scrape the website.
 
 ## Requirements
 - scrapy
